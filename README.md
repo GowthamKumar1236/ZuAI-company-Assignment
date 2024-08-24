@@ -21,7 +21,4 @@ A simple blog application with a list view and detail view for blog posts. The a
 3. From the `blog-app/backend` directory, run `npm start` to start the server.
 
 ### Deployment
-- Deploy the combined backend on Render, ensuring it serves both the API and the static files from the React build.
-
-## License
-This project is licensed under the MIT License.
+- Deployed the combined backend on Render, ensuring it serves both the API and the static files from the React build.
